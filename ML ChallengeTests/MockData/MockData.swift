@@ -9,7 +9,7 @@
 import Foundation
 @testable import ML_Challenge
 
-struct MockData {
+struct mockData {
     static let productListData: Data = """
     {
         "results": [

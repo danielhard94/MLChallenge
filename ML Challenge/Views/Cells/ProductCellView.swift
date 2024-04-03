@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 struct ProductMLCellView: View {
     
     let productML : ProductMLModel
@@ -40,5 +39,5 @@ struct ProductMLCellView: View {
 }
 
 #Preview {
-    ProductMLCellView(productML: MockData.productML)
+    ProductMLCellView(productML: mockData.productML)
 }
