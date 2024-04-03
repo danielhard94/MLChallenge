@@ -115,6 +115,7 @@
 				FA5134562BBCB43B00254A7D /* Managers */,
 				FA5134162BBB424E00254A7D /* ML_ChallengeApp.swift */,
 				FA51341C2BBB425000254A7D /* ML_Challenge.entitlements */,
+				FA51341A2BBB425000254A7D /* Assets.xcassets */,
 				FA5134582BBCBF4700254A7D /* Resources */,
 				FA51341D2BBB425000254A7D /* Preview Content */,
 			);
@@ -166,8 +167,8 @@
 		FA5134542BBCB3F500254A7D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				FA5134572BBCB45800254A7D /* Cells */,
 				FA5134182BBB424E00254A7D /* ContentView.swift */,
+				FA5134572BBCB45800254A7D /* Cells */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -200,7 +201,6 @@
 		FA5134582BBCBF4700254A7D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FA51341A2BBB425000254A7D /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -506,7 +506,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "ML-Challenge-Info.plist";
+				INFOPLIST_FILE = "ML Challenge/ML-Challenge-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -545,7 +545,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "ML-Challenge-Info.plist";
+				INFOPLIST_FILE = "ML Challenge/ML-Challenge-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;

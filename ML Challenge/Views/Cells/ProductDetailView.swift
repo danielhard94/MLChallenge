@@ -59,5 +59,5 @@ struct ProductDetailView: View {
 }
 
 #Preview {
-    ProductDetailView(productML: MockData.productML)
+    ProductDetailView(productML: mockData.productML)
 }
