@@ -16,7 +16,6 @@
 - [x] Funcion de formato para precios
 - [x] llamado asincrono de images
 
-![Texto Alternativo](ML\ Challenge/ML\ Challenge/Assets.xcassets/Image.imageset/Image.png)
 
 
 
